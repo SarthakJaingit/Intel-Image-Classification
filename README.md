@@ -36,6 +36,9 @@ First initialize a git file with `git init`
 
 Finally, Use `git clone` to clone the project. 
 
+## Getting Data
+This uses a kaggle dataset. To access the dataset and download it please go [here!](https://www.kaggle.com/puneet6060/intel-image-classification)
+
 ## Other Options
 
 ### Using GPU 
